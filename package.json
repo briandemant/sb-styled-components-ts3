@@ -1,0 +1,21 @@
+{
+  "name": "styled-components-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.tsx",
+  "dependencies": {
+    "styled-components": "2.1.2",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "@types/react-dom": "15.5.4",
+    "@types/react": "16.0.5",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
