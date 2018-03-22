@@ -27,7 +27,7 @@ const App = () => (
 			Click
 		</Button>
 		<Button look="light" size="huge" radius={100}>
-			Click
+			Click me please!
 		</Button>
 	</Wrapper>
 )
