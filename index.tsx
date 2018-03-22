@@ -5,7 +5,7 @@ import Button from "./Button"
 
 const Wrapper = styled.div`
 	padding: 20px;
-	background: #def;
+	background: #fed;
 	width: 300px;
 
 	${Button} {
