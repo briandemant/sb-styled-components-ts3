@@ -1,1 +1,3 @@
-Just playing with codesandbox.io and styles components
+# Styled Components with Typescript
+
+Just playing with codesandbox.io and styled components
